@@ -1,0 +1,1 @@
+ I would suggest learning about machine learning, natural language processing (NLP), and computer vision. These technologies can be used to create a banking software with AI features. Additionally, it would be helpful to learn about databases and web development.
